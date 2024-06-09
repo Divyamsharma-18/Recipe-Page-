@@ -11,6 +11,7 @@ body{
 header{
     border-bottom: 1px solid rgb(184, 183, 183);
     border-radius: 2px;
+    margin:8%;
 }
 .container{
     margin-top: 5%;

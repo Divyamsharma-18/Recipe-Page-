@@ -1,0 +1,152 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+header{
+    border-bottom: 1px solid rgb(184, 183, 183);
+    border-radius: 2px;
+}
+.container{
+    margin-top: 8%;
+    margin-bottom: 8%;
+    background-color: hsl(0, 0%, 100%);
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+img{
+    width: 320px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+}
+.heading{
+    display: flex;
+    flex-direction: column;
+    margin-left: 8%;
+}
+.recipeName{
+    font-size: x-large;
+    font-family: serif;
+    text-align: left;
+    font-weight: 900;
+}
+.nutmeg{
+    color: hsl(14, 45%, 36%);
+    font-size: x-large;
+    font-family: serif;
+}
+.para{
+    font-weight: 500;
+    font-size: 14px;
+}
+.charcoal{
+    color: hsl(24, 5%, 18%);
+}
+.liHead{
+    font-weight: 700;
+    font-size: 12px;
+}
+.liDesc{
+    font-size: 12px;
+}
+.ingText{
+    font-size: 12px;
+    font-weight: 400;
+}
+.prepSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.prep{
+    width: 320px;
+    background-color: hsl(330, 100%, 98%);
+    color: hsl(332, 51%, 32%);
+    border: 2px solid hsl(330, 100%, 98%);
+    border-radius: 15px;
+}
+.prepHead{
+    margin-left: 8%;
+}
+.prepUL{
+    display: flex;
+    flex-direction: column;
+}
+.list{
+    display: flex;
+    gap: 4px;
+}
+.brown{
+    color: hsl(30, 10%, 34%);
+}
+.ingredients{
+    margin: 8%;
+}
+.ingList{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+main{
+    display: flex;  
+    flex-direction: column; 
+    margin-left: 8%;
+    border-bottom: 1px solid rgb(184, 183, 183);
+    border-radius: 2px;
+}
+.ingText{
+    font-size: 11px;
+}
+.olInst{
+    margin-top: -30px;
+    font-size: 14px;
+    margin-right: 15px;
+}
+.instList{
+    font-size: 14px;
+    margin-top: -20px;
+}
+.boldInst{
+    font-size: 14px;
+    font-weight: 800;
+}
+.normInst{
+    font-size: 12px;
+    margin-top: -10px;
+}
+.footHead{
+    margin: 8%;
+}
+.footDesc{
+    font-size: 10px;
+    margin: 8%;
+    margin-top: -20px;
+}
+.flex{
+    display: flex;
+}
+.nutr{
+    font-size: 12px;
+    width: 180px;
+    margin-left: 12%;
+}
+.value{
+    font-weight: 800;
+    width: 100px;
+    font-size: 12px;
+}
+.under{
+    border-bottom: 1px solid rgb(184, 183, 183);
+    border-radius: 2px;
+}

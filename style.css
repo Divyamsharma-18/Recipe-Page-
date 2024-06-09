@@ -102,7 +102,7 @@ img{
 main{
     display: flex;  
     flex-direction: column; 
-    margin-left: 8%;
+    margin: 8%;
     border-bottom: 1px solid rgb(184, 183, 183);
     border-radius: 2px;
 }

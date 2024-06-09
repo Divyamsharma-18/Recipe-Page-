@@ -13,8 +13,8 @@ header{
     border-radius: 2px;
 }
 .container{
-    margin-top: 8%;
-    margin-bottom: 8%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     background-color: hsl(0, 0%, 100%);
     width: 370px;
     display: flex;

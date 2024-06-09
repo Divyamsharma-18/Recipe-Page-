@@ -99,6 +99,7 @@ img{
 .ingList{
     font-family: sans-serif;
     font-size: 14px;
+    margin-top: -18px;
 }
 main{
     display: flex;  
